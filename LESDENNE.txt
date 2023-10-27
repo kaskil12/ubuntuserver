@@ -1,0 +1,1 @@
+jeg lagede en virtual machine i hyperv. etter det lastet jeg ned apache2 og følte documentation på det og fikk settet opp en nettside
